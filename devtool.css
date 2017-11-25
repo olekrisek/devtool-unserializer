@@ -1,0 +1,32 @@
+/* Simple CSS to the devtool */
+	
+	h1 {
+		font: bold 30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	}
+	
+	textarea#serinput {
+		height: calc(50% - 120px);
+		width: 90%;
+		margin-left: 5%;
+		clear: both;
+	}
+	
+	input#SendButton {
+	margin-left: 5%;
+		margin-top: 20px;
+		width: 200px;
+	}
+	
+	textarea#seroutput {
+		height: calc(50% - 120px);
+		width: 90%;
+		margin-left: 5%;
+	}
+	
+	body {
+		margin: 10px 50px 50px;
+	}
+	
+	h3 {
+		font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	}
